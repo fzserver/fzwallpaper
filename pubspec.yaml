@@ -1,5 +1,5 @@
 name: fzwallpaper
-description: This is a flutter plugin which sets a image as a wallpaper in Android using the native functionality of android. It sets the wallpaper on HomeScreen, LockScreen, Home & Lock BothScreen also.
+description: This is a flutter plugin which sets a image as a wallpaper in Android using the native functionality of android.
 version: 1.0.1
 homepage: https://github.com/FrazileDevelopers/fzwallpaper
 
